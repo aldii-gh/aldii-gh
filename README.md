@@ -17,12 +17,10 @@
 
 ---
 
-## 📌 Pinned Repositories
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [MyGameProject](https://github.com/username/MyGameProject) | Simple business simulation game | Godot | ⭐ 42 |
-| [WhatsAppBotModular](https://github.com/username/WhatsAppBotModular) | Modular WhatsApp Bot using Node.js | JavaScript | ⭐ 30 |
-| [ArduinoEyeAnimation](https://github.com/username/ArduinoEyeAnimation) | OLED Eye Animation Project for Bikes | C++ | ⭐ 25 |
+## ⚙️ GitHub Actions / Workflows
+<!-- Contoh badges workflow, sesuaikan dengan nama repo dan workflow -->
+[![Build Node.js Project](https://github.com/aldilesmana/MyNodeProject/actions/workflows/nodejs.yml/badge.svg)](https://github.com/aldilesmana/MyNodeProject/actions/workflows/nodejs.yml)
+[![CI/CD Pipeline](https://github.com/aldilesmana/MyGameProject/actions/workflows/game_build.yml/badge.svg)](https://github.com/aldilesmana/MyGameProject/actions/workflows/game_build.yml)
 
 ---
 
