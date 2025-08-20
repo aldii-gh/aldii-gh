@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldi Lesmana</h1>
 <h3 align="center">I'm a developer who is just curious</h3>
 
-<p align="left"> <img src="(https://github-profile-trophy.vercel.app/?username=aldi-ls&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="aldi-gh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldi-gh" alt="aldi-gh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldii-gh" alt="aldi-gh" /></a> </p>
 
 - 🔭 I’m currently working on [<>](<>)
 
